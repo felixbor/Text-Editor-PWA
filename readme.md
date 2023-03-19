@@ -12,6 +12,7 @@
   * [Contributing](#Contributors)
   * [Tests](#tests)
   * [Questions](#questions)
+  * [Screenshots](#Screenshots)
     
   ## Description
 Web-text editor  is  single-page application that meets the PWA criteria. It includes    number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application can be run online of offline. Moreover can be installed as a client.
@@ -27,8 +28,10 @@ Web-text editor  is  single-page application that meets the PWA criteria. It inc
 
  ## Deployed app
  [link to deployed app](https://feliks-text-editor-pwa.herokuapp.com/) 
- ## Screenshot
-![Screenshot](./public/Screenshot.jpg)
+ ## Screenshots
+![app](./public/Screenshot.jpg)
+![Serviceworkers](./public/Serviceworkers.jpg)
+![indexDB](./public/indexedDB.jpg)
   ## License
   This application is covered  under the mit license.
   
